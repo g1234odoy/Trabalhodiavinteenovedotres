@@ -1,4 +1,4 @@
-# Trabalhodiavinteenovedotres
+# Trabalho Busca Binária
 Nesse projeto, estarei colocando o trabalho requerido para o dia 29/03 (Quinta), de Organização de Estruturas de Arquivos, da turma de BCC.
 Passos para a execução do Programa:
 <p>1.Colocar todos os arquivos em uma pasta, e saber sua localização;</p>
